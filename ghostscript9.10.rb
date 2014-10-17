@@ -5,7 +5,7 @@ class Ghostscript910 < Formula
   revision 1
 
   stable do
-    url 'http://downloads.ghostscript.com/public/ghostscript-9.10.tar.gz'
+    url 'https://ghostscript.googlecode.com/files/ghostscript-9.10.tar.gz'
     sha1 '29d6538ae77565c09f399b06455e94e7bcd83d01'
 
     patch :DATA # Uncomment OS X-specific make vars
