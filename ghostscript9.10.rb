@@ -1,6 +1,6 @@
 require 'formula'
 
-class Ghostscript < Formula
+class Ghostscript910 < Formula
   homepage 'http://www.ghostscript.com/'
   revision 1
 
